@@ -2,4 +2,4 @@
 类网易新闻客户端跟贴动画Demo
 
 效果如下：
-![jerryliurui.github.io](jerryliurui.github.io/images/AnimationLabel/demoAnimation.gif)
+![LabelAnimation](https://github.com/jerryliurui/LabelAnimation/blob/master/demoAnimation.gif)
